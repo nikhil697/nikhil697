@@ -1,4 +1,3 @@
-![MasterHead](https://imgs.search.brave.com/wtncR-JriARXrL1yid63MbtaCFsmc4FDe1Q6uq7v1Lo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAxLzc3Lzc1Lzc4/LzM2MF9GXzE3Nzc1/NzgwOF9HQjdpbHY2/YnZyZERrSkYwczh3/emV3RDJXU3JCOFMy/RS5qcGc)
 # <H1 align="center">Hey there! 👋 I'm Nikhil Chadha.</H1>
 <H3>I'm a passionate Python and Django enthusiast diving into the realms of Data Analytics with Power BI. I'm on a journey to broaden my horizons, collaborate with like-minded individuals, and immerse myself in the art of coding and the wonders of data science.</H3><br><br>
 <ul type="circle">
