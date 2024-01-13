@@ -1,5 +1,13 @@
+![MasterHead](https://imgs.search.brave.com/wtncR-JriARXrL1yid63MbtaCFsmc4FDe1Q6uq7v1Lo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAxLzc3Lzc1Lzc4/LzM2MF9GXzE3Nzc1/NzgwOF9HQjdpbHY2/YnZyZERrSkYwczh3/emV3RDJXU3JCOFMy/RS5qcGc)
 # <H1 align="center">Hey there! 👋 I'm Nikhil Chadha.</H1>
-<H3>I'm a passionate Python and Django enthusiast diving into the realms of Data Analytics with Power BI. I'm on a journey to broaden my horizons, collaborate with like-minded individuals, and immerse myself in the art of coding and the wonders of data science.</H3><br><br>🔭 I’m currently working on Sports Management System.<br><br>👯 I’m looking to collaborate on exciting  Power BI and Django projects.<br><br>🤝 I’m looking for help with enhancing my skills in Data Science and Power BI.<br><br>🌱 I’m currently learning analytics with Power BI.<br><br>💬 Ask me about Python, Django, Data Analytics, or Power BI.<br><br>📫 How to reach me nikhilchadha1537@gmail.com
+<H3>I'm a passionate Python and Django enthusiast diving into the realms of Data Analytics with Power BI. I'm on a journey to broaden my horizons, collaborate with like-minded individuals, and immerse myself in the art of coding and the wonders of data science.</H3><br><br>
+<ul type="circle">
+<li>🔭 I’m currently working on <b>Sports Management System</b>.<br><br>
+<li>👯 I’m looking to collaborate on <b>Exciting  Power BI and Django projects.</b><br><br>
+<li>🤝 I’m looking for help with <B>Enhancing my skills in Data Science and Power BI.</B><br><br>
+<li>🌱 I’m currently learning <B>Analytics with Power BI.</B><br><br>
+<li>💬 Ask me about <B>Python, Django, Data Analytics, or Power BI.</B><br><br>
+<li>📫 How to reach me <a href="mailto:nikhilchadha1537@gmail.com">nikhilchadha1537@gmail.com</a>
 
 
 ## 🌐 Socials:
@@ -7,7 +15,7 @@
 <a href="https://kaggle.com/nikhilchadha1537" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Nikhil Chadha" height="30" width="40" /></a>
 <a href="https://instagram.com/nikhil__chadha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nikhil Chadha" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nikhil15378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhil15378" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/nikhil-chadha-8108b2214" target="blank"><img align="center" src="https://github.com/maurodesouza/profile-readme-generator/blob/e49da3cfc5f88fce486acbaa230de6bcf8c9fda1/src/assets/icons/social/linkedin/default.svg" alt="nikhil15378" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nikhil-chadha-8108b2214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-chadha-8108b2214" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
